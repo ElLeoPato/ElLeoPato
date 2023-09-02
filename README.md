@@ -16,7 +16,7 @@ And suddenly, our code turns into a fucking abyss.”
 Source: [code](https://www.gnu.org/fun/jokes/echo-msg.html)
 ## 💫 Get a free test of my wisdom here:
 
-### 🤖 Okay, you're getting close! But first let's check if you're a real human.**
+### 🤖 Okay, you're getting close! But first let's check if you're a real human.
 
 Run this ~~malware~~ harmless code in your terminal
 ```
