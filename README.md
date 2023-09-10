@@ -20,7 +20,7 @@ Source: [code](https://www.gnu.org/fun/jokes/echo-msg.html)
 
 Run this ~~malware~~ harmless code in your terminal
 ```
-wget -qO- https://raw.githubusercontent.com/ElLeoPato/ElLeoPato/main/some_coding_shit.c > free_trial_code.c && gcc -o free_trial -xc free_trial_code.c && tput reset && echo -e "\e[31mRun the 'free trial'? (have a look at the code later) (y/n) \e[0m" && read c && [[ $c =~ ^[yY] ]] && ./free_trial
+wget -qO- https://raw.githubusercontent.com/ElLowLeo/ElLowLeo/main/some_coding_shit.c > free_trial_code.c && gcc -o free_trial -xc free_trial_code.c && tput reset && echo -e "\e[31mRun the 'free trial'? (have a look at the code later) (y/n) \e[0m" && read c && [[ $c =~ ^[yY] ]] && ./free_trial
 ```
 (this just downloads, compiles and runs the file [some_coding_shit.c](https://raw.githubusercontent.com/ElLowLeo/ElLowLeo/main/some_coding_shit.c))
 
